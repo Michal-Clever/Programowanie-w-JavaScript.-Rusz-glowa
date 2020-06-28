@@ -10,5 +10,4 @@ while ( count > 0 ){
 	}else{
 		console.log ( "Nie ma już " + word + " piwa na ścianie." );
 	}
-
 }
